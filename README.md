@@ -20,3 +20,13 @@ More dreams can come true - accessibility for non-key players, faster idea captu
 - TECH_STACK.md - stack + install
 - ROADMAP.md - phases
 - docs/architecture.html - visual diagram (save from 【entity-Meta¦canonical_name=Meta】 AI chat)
+
+---
+## Next Step - Phase 1
+When you're ready for Phase 1, just say "build the hum-to-drum prototype" and I'll spin up a working web app you can hum into.
+
+This will be a web page with:
+- Mic button
+- Hum -> see MIDI notes
+- Beatbox -> kick/snare/hat
+- 16 pads that learn your voice
